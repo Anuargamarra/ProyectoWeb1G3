@@ -1,0 +1,36 @@
+#colorUno{
+
+background-color: #b01324;
+
+}
+
+#colorDos{
+
+    background-color: #fc7921;
+    
+    }
+
+    #colorTres{
+
+        background-color: #412788;
+        
+        }
+
+#encabezado{
+
+font-size: 80px;
+color: white;
+background-color: #b01324;
+text-align: center;
+}
+
+#cuerpo{
+
+    background-color: #fc7921;
+
+}
+
+#cuadro{
+
+    background-color: #412788; 
+}

@@ -1,0 +1,36 @@
+body{
+
+background-color: rgb(127, 129, 255);
+
+}
+
+samp{
+    color: rgb(0, 255, 13);
+   
+}
+
+h1,p{
+text-align:center ;
+
+}
+
+h1 samp{
+
+    color: white;
+}
+
+.destacado{
+
+    font-size: 40px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+
+#unico{
+
+    text-align: center;
+    color: wheat;
+
+}
